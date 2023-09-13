@@ -1,5 +1,5 @@
 {
-  "feature": "morematerials:deepslate_platin_ore_placed",
+  "feature": "morematerials:overworld_platin_ore_placed",
   "placement": [
     {
       "type": "minecraft:biome"

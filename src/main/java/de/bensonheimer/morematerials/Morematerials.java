@@ -2,6 +2,8 @@ package de.bensonheimer.morematerials;
 
 import com.mojang.logging.LogUtils;
 import de.bensonheimer.morematerials.core.init.*;
+import de.bensonheimer.morematerials.world.feature.ModConfiguredFeatures;
+import de.bensonheimer.morematerials.world.feature.ModPlacedFeatures;
 import de.bensonheimer.morematerials.world.item.ModTab;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
